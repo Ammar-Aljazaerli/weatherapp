@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.06" height="61.842" viewBox="0 0 68.06 61.842">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Fog_Night" data-name="Fog Night" transform="translate(-881.826 -208.982)">
+    <path id="Path_115" data-name="Path 115" d="M935.826,237.647a14.6,14.6,0,0,1-4.033-28.636.765.765,0,0,1,.947.946,13.05,13.05,0,0,0,16.17,16.17.765.765,0,0,1,.946.947A14.664,14.664,0,0,1,935.826,237.647Z" fill="url(#linear-gradient)"/>
+    <path id="Path_116" data-name="Path 116" d="M927.829,252.527a10.664,10.664,0,1,0,0-21.328c-.037,0-.072,0-.109.006a17.022,17.022,0,0,0-32.443-5.068c-.085,0-.168-.007-.253-.007a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-2)"/>
+    <path id="Path_117" data-name="Path 117" d="M942.046,252.527a6.7,6.7,0,1,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.372-3.183c-.053,0-.106,0-.159,0a8.288,8.288,0,1,0,0,16.576" fill="#eee"/>
+    <path id="Path_118" data-name="Path 118" d="M902.451,262.824h-10a1.5,1.5,0,0,1,0-3h10a1.5,1.5,0,0,1,0,3Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_119" data-name="Path 119" d="M923.951,262.824h-15a1.5,1.5,0,0,1,0-3h15a1.5,1.5,0,0,1,0,3Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_120" data-name="Path 120" d="M912.451,270.824h-20a1.5,1.5,0,0,1,0-3h20a1.5,1.5,0,0,1,0,3Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_121" data-name="Path 121" d="M933.951,270.824h-15a1.5,1.5,0,0,1,0-3h15a1.5,1.5,0,0,1,0,3Z" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

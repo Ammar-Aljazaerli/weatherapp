@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.448" height="34.341" viewBox="0 0 65.448 34.341">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Breezy" transform="translate(-1186.268 -532.813)">
+    <path id="Path_156" data-name="Path 156" d="M1235.921,567.154a5.136,5.136,0,0,1-4.757-7.094h-29.453a1.6,1.6,0,1,1,0-3.2h34.081c.022,0,.043.005.064.006s.043-.006.065-.006a5.145,5.145,0,1,1,0,10.289Z" fill="url(#linear-gradient)"/>
+    <path id="Path_157" data-name="Path 157" d="M1246.571,558.323a5.138,5.138,0,0,1-4.757-7.094h-53.949a1.6,1.6,0,0,1,0-3.2h58.577c.022,0,.043.005.065.006s.042-.006.064-.006a5.145,5.145,0,1,1,0,10.289Z" fill="url(#linear-gradient)"/>
+    <path id="Path_158" data-name="Path 158" d="M1235.921,532.813a5.136,5.136,0,0,0-4.757,7.094h-18.8a1.6,1.6,0,0,0,0,3.2h23.431c.022,0,.043-.005.064-.006s.043.006.065.006a5.145,5.145,0,1,0,0-10.289Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.916" height="36.439" viewBox="0 0 66.916 36.439">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.208" y1="1.112" x2="0.78" y2="0.223" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Mostly_Cloudy" data-name="Mostly Cloudy" transform="translate(-882.398 -378.651)">
+    <path id="Path_76" data-name="Path 76" d="M928.4,415.09a10.664,10.664,0,0,0,0-21.328c-.036,0-.072.006-.109.006a17.022,17.022,0,0,0-32.443-5.068c-.084,0-.167-.007-.252-.007a13.2,13.2,0,0,0,0,26.4" fill="#eee"/>
+    <path id="Path_77" data-name="Path 77" d="M942.618,415.09a6.7,6.7,0,1,0,0-13.392c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.053,0-.1,0-.158,0a8.287,8.287,0,1,0,0,16.575" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

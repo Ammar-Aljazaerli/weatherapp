@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="73.037" viewBox="0 0 67 73.037">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.208" y1="1.112" x2="0.78" y2="0.224" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Sleet_Night" data-name="Sleet Night" transform="translate(-1488.628 -370.352)">
+    <path id="Path_19" data-name="Path 19" d="M1541.568,399.018a14.6,14.6,0,0,1-4.033-28.637.766.766,0,0,1,.947.947,13.052,13.052,0,0,0,16.17,16.17.764.764,0,0,1,.946.946A14.663,14.663,0,0,1,1541.568,399.018Z" fill="url(#linear-gradient)"/>
+    <path id="Path_20" data-name="Path 20" d="M1534.631,414.722a10.664,10.664,0,1,0,0-21.328c-.037,0-.073.006-.109.006a17.022,17.022,0,0,0-32.444-5.068c-.084,0-.167-.006-.252-.006a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-2)"/>
+    <path id="Path_21" data-name="Path 21" d="M1548.848,414.722a6.7,6.7,0,1,0,0-13.392c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.052,0-.1,0-.158,0a8.287,8.287,0,1,0,0,16.575" fill="#eee"/>
+    <path id="Path_22" data-name="Path 22" d="M1495.441,437.326a2,2,0,0,1-1.73-3l6.5-11.257a2,2,0,0,1,3.465,2l-6.5,11.257A2,2,0,0,1,1495.441,437.326Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_23" data-name="Path 23" d="M1502.581,443.389a2,2,0,0,1-1.73-3l10-17.32a2,2,0,0,1,3.464,2l-10,17.32A2,2,0,0,1,1502.581,443.389Z" fill="url(#linear-gradient-3)"/>
+    <circle id="Ellipse_37" data-name="Ellipse 37" cx="2" cy="2" r="2" transform="translate(1521.816 422.068)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="2" cy="2" r="2" transform="translate(1531.816 422.068)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_39" data-name="Ellipse 39" cx="2" cy="2" r="2" transform="translate(1512.816 438.675)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" cx="2" cy="2" r="2" transform="translate(1517.816 430.175)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_41" data-name="Ellipse 41" cx="2" cy="2" r="2" transform="translate(1527.816 430.175)" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>

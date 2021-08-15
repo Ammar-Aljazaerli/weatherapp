@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="60.718" viewBox="0 0 67 60.718">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.208" y1="1.112" x2="0.78" y2="0.224" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Scattered_Showers_Night" data-name="Scattered Showers Night" transform="translate(-1488.628 -670.707)">
+    <path id="Path_44" data-name="Path 44" d="M1541.568,699.373a14.6,14.6,0,0,1-4.033-28.637.766.766,0,0,1,.947.947,13.052,13.052,0,0,0,16.17,16.17.764.764,0,0,1,.946.946A14.663,14.663,0,0,1,1541.568,699.373Z" fill="url(#linear-gradient)"/>
+    <path id="Path_45" data-name="Path 45" d="M1534.631,715.077a10.664,10.664,0,1,0,0-21.328c-.037,0-.073.005-.109.006a17.022,17.022,0,0,0-32.444-5.068c-.084,0-.167-.007-.252-.007a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-2)"/>
+    <path id="Path_46" data-name="Path 46" d="M1548.848,715.077a6.7,6.7,0,1,0,0-13.393c-.023,0-.045,0-.068,0a10.69,10.69,0,0,0-20.373-3.183c-.052,0-.1,0-.158,0a8.288,8.288,0,0,0,0,16.576" fill="#eee"/>
+    <path id="Path_47" data-name="Path 47" d="M1500.77,731.425a2,2,0,0,1-1.731-3l2.887-5a2,2,0,0,1,3.465,2l-2.887,5A2,2,0,0,1,1500.77,731.425Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_48" data-name="Path 48" d="M1514.382,731.425a2,2,0,0,1-1.73-3l2.886-5a2,2,0,0,1,3.465,2l-2.887,5A2,2,0,0,1,1514.382,731.425Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_49" data-name="Path 49" d="M1528.993,731.425a2,2,0,0,1-1.73-3l2.887-5a2,2,0,0,1,3.465,2l-2.887,5A2,2,0,0,1,1528.993,731.425Z" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

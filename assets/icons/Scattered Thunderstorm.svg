@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.916" height="63.259" viewBox="0 0 66.916 63.259">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.077" y1="0.836" x2="0.8" y2="0.107" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.208" y1="1.112" x2="0.78" y2="0.224" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Scattered_Thunderstorm" data-name="Scattered Thunderstorm" transform="translate(-276.126 -374.241)">
+    <circle id="Ellipse_42" data-name="Ellipse 42" cx="12.963" cy="12.963" r="12.963" transform="translate(312.685 374.241)" fill="url(#linear-gradient)"/>
+    <path id="Path_39" data-name="Path 39" d="M303.726,411.155a5.76,5.76,0,0,0-4.5,2.6l-5.267,9.122c-.825,1.429-.154,2.5,1.492,2.379l4.3-.317c1.646-.121,2.347.967,1.56,2.416l-4.786,8.807c-.787,1.449-.389,1.778.885.73l17.3-14.229c1.274-1.048.968-1.837-.679-1.753l-6.611.339c-1.648.084-2.322-1.016-1.5-2.445l2.91-5.04c.825-1.428.15-2.6-1.5-2.6Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_40" data-name="Path 40" d="M322.128,414.894a10.664,10.664,0,1,0,0-21.328c-.036,0-.072.005-.109.006a17.022,17.022,0,0,0-32.443-5.068c-.084,0-.167-.007-.252-.007a13.2,13.2,0,0,0,0,26.4" fill="#eee"/>
+    <path id="Path_41" data-name="Path 41" d="M336.346,414.894a6.7,6.7,0,0,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.183c-.053,0-.105,0-.158,0a8.288,8.288,0,0,0,0,16.576" fill="url(#linear-gradient-3)"/>
+    <path id="Path_42" data-name="Path 42" d="M299.209,411.253" fill="none" stroke="#00a1ed" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_43" data-name="Path 43" d="M313.708,423.709" fill="none" stroke="#00a1ed" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

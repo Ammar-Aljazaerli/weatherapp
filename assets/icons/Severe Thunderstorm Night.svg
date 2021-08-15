@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="68.094" viewBox="0 0 67 68.094">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.077" y1="0.836" x2="0.8" y2="0.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.208" y1="1.112" x2="0.78" y2="0.223" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Severe_Thunderstorm_Night" data-name="Severe Thunderstorm Night" transform="translate(-1185.492 -206.856)">
+    <path id="Path_24" data-name="Path 24" d="M1213.092,248.6a5.755,5.755,0,0,0-4.5,2.6l-5.267,9.122c-.825,1.429-.153,2.5,1.492,2.378l4.3-.316c1.646-.121,2.348.966,1.56,2.416l-4.785,8.806c-.788,1.45-.39,1.779.885.731l17.3-14.23c1.274-1.048.969-1.836-.679-1.752l-6.611.338c-1.648.085-2.321-1.015-1.5-2.444l2.909-5.04c.825-1.429.15-2.6-1.5-2.6Z" fill="url(#linear-gradient)"/>
+    <path id="Path_25" data-name="Path 25" d="M1238.432,235.522a14.6,14.6,0,0,1-4.033-28.637.765.765,0,0,1,.947.947A13.05,13.05,0,0,0,1251.516,224a.765.765,0,0,1,.946.947A14.663,14.663,0,0,1,1238.432,235.522Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_26" data-name="Path 26" d="M1231.495,252.344a10.664,10.664,0,1,0,0-21.328c-.037,0-.073,0-.109,0a17.023,17.023,0,0,0-32.444-5.068c-.084,0-.167-.006-.252-.006a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-3)"/>
+    <path id="Path_27" data-name="Path 27" d="M1245.712,252.344a6.7,6.7,0,1,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.052,0-.1,0-.158,0a8.288,8.288,0,1,0,0,16.576" fill="#eee"/>
+  </g>
+</svg>

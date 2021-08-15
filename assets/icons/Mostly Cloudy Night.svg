@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="45.107" viewBox="0 0 67 45.107">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.208" y1="1.112" x2="0.78" y2="0.223" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Mostly_Cloudy_Night" data-name="Mostly Cloudy Night" transform="translate(-1488.628 -521.097)">
+    <path id="Path_73" data-name="Path 73" d="M1541.568,549.763a14.6,14.6,0,0,1-4.033-28.637.766.766,0,0,1,.947.947,13.05,13.05,0,0,0,16.17,16.169.765.765,0,0,1,.946.947A14.663,14.663,0,0,1,1541.568,549.763Z" fill="url(#linear-gradient)"/>
+    <path id="Path_74" data-name="Path 74" d="M1534.631,566.2a10.664,10.664,0,1,0,0-21.328c-.037,0-.073.005-.109.005a17.023,17.023,0,0,0-32.444-5.068c-.084,0-.167-.006-.252-.006a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-2)"/>
+    <path id="Path_75" data-name="Path 75" d="M1548.848,566.2a6.7,6.7,0,1,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.052,0-.1,0-.158,0a8.288,8.288,0,0,0,0,16.576" fill="#eee"/>
+  </g>
+</svg>

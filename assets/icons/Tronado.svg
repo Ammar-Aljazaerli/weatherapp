@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="47.499" viewBox="0 0 43 47.499">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Tronado" transform="translate(-591.22 -527.234)">
+    <path id="Path_3" data-name="Path 3" d="M632.22,536.233h-39a2,2,0,0,1,0-4h39a2,2,0,0,1,0,4Z" fill="url(#linear-gradient)"/>
+    <path id="Path_4" data-name="Path 4" d="M627.109,538.229" fill="#eee" stroke="#eee" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_5" data-name="Path 5" d="M599.22,527.234" fill="#eee" stroke="#eee" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_6" data-name="Path 6" d="M622.22,545.858h-21a2,2,0,0,1,0-4h21a2,2,0,0,1,0,4Z" fill="url(#linear-gradient)"/>
+    <path id="Path_7" data-name="Path 7" d="M625.22,555.483h-18a2,2,0,0,1,0-4h18a2,2,0,0,1,0,4Z" fill="url(#linear-gradient)"/>
+    <path id="Path_8" data-name="Path 8" d="M619.22,565.108h-12a2,2,0,0,1,0-4h12a2,2,0,0,1,0,4Z" fill="url(#linear-gradient)"/>
+    <path id="Path_9" data-name="Path 9" d="M609.72,574.733h-1a2,2,0,0,1,0-4h1a2,2,0,0,1,0,4Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

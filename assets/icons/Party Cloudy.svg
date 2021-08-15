@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.916" height="40.26" viewBox="0 0 66.916 40.26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.208" y1="1.112" x2="0.78" y2="0.223" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Party_Cloudy" data-name="Party Cloudy" transform="translate(-730.83 -525.52)">
+    <circle id="Ellipse_44" data-name="Ellipse 44" cx="12.963" cy="12.963" r="12.963" transform="translate(766.19 525.52)" fill="url(#linear-gradient)"/>
+    <path id="Path_71" data-name="Path 71" d="M776.832,565.78a10.664,10.664,0,0,0,0-21.328c-.036,0-.072,0-.109.006a17.022,17.022,0,0,0-32.443-5.068c-.084,0-.167-.007-.252-.007a13.2,13.2,0,0,0,0,26.4" fill="#eee"/>
+    <path id="Path_72" data-name="Path 72" d="M791.05,565.78a6.7,6.7,0,0,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.053,0-.1,0-.158,0a8.288,8.288,0,1,0,0,16.575" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

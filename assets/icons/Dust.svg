@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.455" height="40.91" viewBox="0 0 62.455 40.91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+  </defs>
+  <g id="Dust" transform="translate(-429.924 -675.611)">
+    <circle id="Ellipse_53" data-name="Ellipse 53" cx="20.455" cy="20.455" r="20.455" transform="translate(429.924 675.611)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_54" data-name="Ellipse 54" cx="2" cy="2" r="2" transform="translate(458.379 693.767)" fill="#eee"/>
+    <circle id="Ellipse_55" data-name="Ellipse 55" cx="2" cy="2" r="2" transform="translate(468.379 693.767)" fill="#eee"/>
+    <circle id="Ellipse_56" data-name="Ellipse 56" cx="2" cy="2" r="2" transform="translate(478.379 693.767)" fill="#eee"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="2" cy="2" r="2" transform="translate(488.379 693.767)" fill="#eee"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="2" cy="2" r="2" transform="translate(468.379 707.767)" fill="#eee"/>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="2" cy="2" r="2" transform="translate(478.379 707.767)" fill="#eee"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="2" cy="2" r="2" transform="translate(453.379 700.767)" fill="#eee"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="2" cy="2" r="2" transform="translate(463.379 700.767)" fill="#eee"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="2" cy="2" r="2" transform="translate(473.379 700.767)" fill="#eee"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="2" cy="2" r="2" transform="translate(483.379 700.767)" fill="#eee"/>
+  </g>
+</svg>

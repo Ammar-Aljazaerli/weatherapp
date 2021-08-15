@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="45.106" viewBox="0 0 67 45.106">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.243" y1="0.757" x2="0.757" y2="0.243" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+  </defs>
+  <g id="Party_Cloudy_Night" data-name="Party Cloudy Night" transform="translate(-1033.924 -207.35)">
+    <path id="Path_66" data-name="Path 66" d="M1086.864,236.016a14.6,14.6,0,0,1-4.033-28.637.765.765,0,0,1,.947.946,13.05,13.05,0,0,0,16.17,16.17.765.765,0,0,1,.946.947A14.663,14.663,0,0,1,1086.864,236.016Z" fill="url(#linear-gradient)"/>
+    <path id="Path_67" data-name="Path 67" d="M1079.927,252.456a10.663,10.663,0,1,0,0-21.327c-.037,0-.073.005-.109.005a17.022,17.022,0,0,0-32.444-5.068c-.084,0-.167-.006-.252-.006a13.2,13.2,0,0,0,0,26.4" fill="url(#linear-gradient-2)"/>
+    <path id="Path_68" data-name="Path 68" d="M1094.144,252.456a6.7,6.7,0,1,0,0-13.392c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.182c-.052,0-.1,0-.158,0a8.287,8.287,0,1,0,0,16.575" fill="#eee"/>
+    <path id="Path_69" data-name="Path 69" d="M1096.354,215.658c-.274,1-.721,1-.995,0a3.675,3.675,0,0,0-2.323-2.324c-1.005-.273-1.005-.72,0-.994a3.673,3.673,0,0,0,2.323-2.324c.274-1,.721-1,.995,0a3.673,3.673,0,0,0,2.323,2.324c1.005.274,1.005.721,0,.994A3.675,3.675,0,0,0,1096.354,215.658Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_70" data-name="Path 70" d="M1041.069,218.642c-.221.813-.583.813-.8,0a2.973,2.973,0,0,0-1.882-1.882c-.813-.222-.813-.584,0-.806a2.973,2.973,0,0,0,1.882-1.882c.222-.813.584-.813.8,0a2.977,2.977,0,0,0,1.882,1.882c.814.222.814.584,0,.806A2.977,2.977,0,0,0,1041.069,218.642Z" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.916" height="65.106" viewBox="0 0 66.916 65.106">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.208" y1="1.112" x2="0.78" y2="0.224" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c4e3f7"/>
+      <stop offset="1" stop-color="#d9eaf8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Heavy_Rain" data-name="Heavy Rain" transform="translate(-1337.102 -216.35)">
+    <path id="Path_98" data-name="Path 98" d="M1383.1,252.789a10.664,10.664,0,0,0,0-21.328c-.036,0-.072.005-.109.006a17.022,17.022,0,0,0-32.443-5.068c-.084,0-.167-.007-.252-.007a13.2,13.2,0,0,0,0,26.4" fill="#eee"/>
+    <path id="Path_99" data-name="Path 99" d="M1397.322,252.789a6.7,6.7,0,0,0,0-13.393c-.023,0-.045,0-.068,0a10.689,10.689,0,0,0-20.373-3.183c-.053,0-.1,0-.158,0a8.288,8.288,0,0,0,0,16.576" fill="url(#linear-gradient)"/>
+    <path id="Path_100" data-name="Path 100" d="M1343.915,275.392a2,2,0,0,1-1.73-3l6.5-11.256a2,2,0,1,1,3.464,2l-6.5,11.256A2,2,0,0,1,1343.915,275.392Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_101" data-name="Path 101" d="M1351.055,281.456a2,2,0,0,1-1.73-3l10-17.32a2,2,0,1,1,3.464,2l-10,17.32A2,2,0,0,1,1351.055,281.456Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_102" data-name="Path 102" d="M1375.836,274.528a2,2,0,0,1-1.73-3l6-10.392a2,2,0,1,1,3.464,2l-6,10.392A2,2,0,0,1,1375.836,274.528Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_103" data-name="Path 103" d="M1363.946,277.991a2,2,0,0,1-1.73-3l8-13.856a2,2,0,0,1,3.464,2l-8,13.856A2,2,0,0,1,1363.946,277.991Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.508" height="53.018" viewBox="0 0 45.508 53.018">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.149" y1="0.851" x2="0.694" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a1ed"/>
+      <stop offset="1" stop-color="#00b2f1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.243" y1="0.757" x2="0.757" y2="0.243" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.243" y1="0.757" x2="0.757" y2="0.243" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Clear_Night" data-name="Clear Night" transform="translate(-741.534 -373.94)">
+    <path id="Path_145" data-name="Path 145" d="M764.722,426.958a23.181,23.181,0,0,1-6.4-45.462,1.215,1.215,0,0,1,1.5,1.5,20.719,20.719,0,0,0,25.67,25.67,1.214,1.214,0,0,1,1.5,1.5A23.28,23.28,0,0,1,764.722,426.958Z" fill="url(#linear-gradient)"/>
+    <path id="Path_146" data-name="Path 146" d="M779.749,395.934c-.432,1.588-1.139,1.588-1.571,0a5.808,5.808,0,0,0-3.673-3.673c-1.588-.432-1.588-1.139,0-1.571a5.808,5.808,0,0,0,3.673-3.673c.432-1.588,1.139-1.588,1.571,0a5.808,5.808,0,0,0,3.673,3.673c1.588.432,1.588,1.139,0,1.571A5.808,5.808,0,0,0,779.749,395.934Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_147" data-name="Path 147" d="M771.459,379.847c-.253.928-.666.928-.919,0a3.394,3.394,0,0,0-2.146-2.147c-.928-.252-.928-.665,0-.918a3.391,3.391,0,0,0,2.146-2.146c.253-.928.666-.928.919,0a3.391,3.391,0,0,0,2.146,2.146c.928.253.928.666,0,.918A3.4,3.4,0,0,0,771.459,379.847Z" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

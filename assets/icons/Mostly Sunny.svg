@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.91" height="40.91" viewBox="0 0 40.91 40.91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa611"/>
+      <stop offset="1" stop-color="#ffc005"/>
+    </linearGradient>
+  </defs>
+  <g id="Mostly_Sunny" data-name="Mostly Sunny" transform="translate(-895.401 -529.528)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="20.455" cy="20.455" r="20.455" transform="translate(895.401 529.528)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
