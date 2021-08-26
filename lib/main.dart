@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:weatherapp/Screens/first/cubit/cubit.dart';
-import 'package:weatherapp/Screens/first/first_screen.dart';
+import 'package:weatherapp/Screens/home/cubit/cubit.dart';
 import 'package:weatherapp/utilities/bloc_obs.dart';
+
+import 'Screens/home/first_screen.dart';
 
 void main() {
   Bloc.observer = MyBlocObserver();
@@ -14,11 +15,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => WeatherAppCubit()..getWeatherData(),
+      create: (context) => WeatherAppCubit()..fetchDataFromApi(),
       child: MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.red,
         ),
         debugShowCheckedModeBanner: false,
         home: HomeWeatherScreen(),

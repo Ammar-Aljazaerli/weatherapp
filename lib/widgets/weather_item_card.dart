@@ -1,61 +1,59 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:intl/intl.dart';
-import 'package:weatherapp/Screens/second/second_screen.dart';
-import 'package:weatherapp/models/weather_model.dart';
 import 'package:weatherapp/utilities/constants.dart';
 
 class WeatherItemCard extends StatelessWidget {
   const WeatherItemCard({
     Key? key,
     required this.index,
-    required this.dateDays,
     required this.model,
   }) : super(key: key);
   final int index;
+  final model;
 
-  final DateTime dateDays;
-  final WeatherModel model;
   @override
   Widget build(BuildContext context) {
-    return InkWell(
-      onTap: () {
-        Navigator.push(
-            context,
-            MaterialPageRoute(
-                builder: (context) => WeatherDeteilsScreen(
-                      index: index,
-                    )));
-      },
+    final height = MediaQuery.of(context).size.height;
+    final width = MediaQuery.of(context).size.width;
+
+    return Container(
+      width: width * 30 / 100,
       child: Card(
-        elevation: 2,
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(30),
+          borderRadius: BorderRadius.circular(50),
         ),
-        color: Color(0xFFF6F6F6),
+        color: const Color.fromRGBO(246, 246, 246, 0.8),
         child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: Column(
-            children: [
-              Text(DateFormat('EE').format(dateDays)),
-              Text('${DateFormat(" dd/MM ").format(dateDays)}'),
-              Container(
-                padding: EdgeInsets.all(5.0),
-                height: 50.0,
-                width: 50.0,
-                child: SvgPicture.asset(
-                  'assets/icons/Clear Night.svg',
-                  fit: BoxFit.contain,
+          padding: const EdgeInsets.all(10.0),
+          child: Container(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Text(isoToDayName(model[index].dt)),
+                Text('${isoToDayMonNum(model[index].dt)}'),
+                SizedBox(height: height * 1 / 100),
+                Container(
+                  padding: const EdgeInsets.all(1),
+                  height: height * 10 / 100,
+                  width: width * 10 / 100,
+                  child: SvgPicture.asset(
+                    findIcon(model[index].weather![0].description),
+                    fit: BoxFit.contain,
+                  ),
                 ),
-              ),
-              Text(
-                '${model.list![index].weather![0].description}',
-                overflow: TextOverflow.ellipsis,
-                
-              ),
-              Text(
-                  '${kToC(model.list![index].main!.tempMax)}/${kToC(model.list![index].main!.tempMin)}°C'),
-            ],
+                SizedBox(height: height * 1 / 100),
+                Expanded(
+                  child: Text(
+                    '${model[index].weather![0].description}',
+                    overflow: TextOverflow.ellipsis,
+                    maxLines: 2,
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+                Text(
+                    '${model[index].temp!.max.toString()}/${model[index].temp!.min.toString()}°C'),
+              ],
+            ),
           ),
         ),
       ),
