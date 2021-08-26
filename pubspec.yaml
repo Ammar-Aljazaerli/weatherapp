@@ -32,7 +32,10 @@ dependencies:
   intl:
   bloc: ^7.0.0
   flutter_bloc: ^7.1.0
-  dio:
+  geolocator: ^7.4.0
+  font_awesome_flutter: ^9.1.0
+  page_transition: ^2.0.2
+  easy_rich_text: ^0.5.7
 
 dev_dependencies:
   flutter_test:
